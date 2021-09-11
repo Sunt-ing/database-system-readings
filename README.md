@@ -11,6 +11,7 @@ In the paper digest, I will try to answer the following questions:
 - Designing Data-Intensive Applications
 - Database Internals
 - Database system concepts
+- The PhD Grind
 
 # Paper list
 ## ATC
