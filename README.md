@@ -1,17 +1,27 @@
-# database-system-readings
-This is a curated reading list about database systems.
-In the summaries, I will try to answer the following questions: 
+# Introduction
+This is a curated reading list about database systems. Book digests can be found in README, while paper digests are located in the issue list.
+In the paper digest, I will try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
 - How does it solve the problem? 
 - How does their approach differ from previous ones? Are they adequately discussed in the reading? 
 - How does this work relate to other research? 
 - What could be improved? 
 
-# Other Reading lists
+# Book list
+- Designing Data-Intensive Applications
+- Database Internals
+- Database system concepts
+
+# Paper list
+## ATC
+- Scaling Large Production Clusters with Partitioned Synchronization
+
+
+# Referenced Reading lists
 ## General 
+- [:star:] Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](https://xzhu0027.gitbook.io/blog/reading-list)
+- [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
-- Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](https://xzhu0027.gitbook.io/blog/reading-list)
-- Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - UIUC: [https://systems-seminar-uiuc.github.io/fall20/index.html](https://systems-seminar-uiuc.github.io/fall20/index.html)
 - NYU: [https://github.com/fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar)
 - UMass: [https://systems-lunch.org/](https://systems-lunch.org/)
@@ -22,7 +32,7 @@ In the summaries, I will try to answer the following questions:
 - [http://dancres.github.io/Pages/](http://dancres.github.io/Pages/)
 
 ## Database and Big Data
-- Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
+- [:star:] Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
 - [https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai](https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai)
 
 ## System + Machine Learning
