@@ -10,7 +10,7 @@ In the summaries, I will try to answer the following questions:
 # Other Reading lists
 ## General 
 - [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
-- Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](ttps://xzhu0027.gitbook.io/blog/reading-list)
+- Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](https://xzhu0027.gitbook.io/blog/reading-list)
 - Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - UIUC: [https://systems-seminar-uiuc.github.io/fall20/index.html](https://systems-seminar-uiuc.github.io/fall20/index.html)
 - NYU: [https://github.com/fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar)
@@ -33,7 +33,7 @@ In the summaries, I will try to answer the following questions:
 ## System Reliability
 - JHU: [https://www.cs.jhu.edu/~huang/cs817/spring21/](https://www.cs.jhu.edu/~huang/cs817/spring21/)
 - JHU: [https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html](https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html)
-- UMich: [https://web.eecs.umich.edu/~manosk/summer-school-2020.html](ttps://web.eecs.umich.edu/~manosk/summer-school-2020.html)
+- UMich: [https://web.eecs.umich.edu/~manosk/summer-school-2020.html](https://web.eecs.umich.edu/~manosk/summer-school-2020.html)
 - [https://github.com/lorin/systems-reading](https://github.com/lorin/systems-reading)
 
 
