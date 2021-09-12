@@ -12,6 +12,7 @@ In the paper digest, I will try to answer the following questions:
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing 
 - Database system concepts
+- Modern Operating Systems: Principles and Implementation (现代操作系统：原理与实现). By Haibo Chen & Yubin Xia.
 - The PhD Grind
 
 # Paper list
