@@ -1,8 +1,14 @@
-### Building Evolutionary Architectures
-- https://zhuanlan.zhihu.com/p/40880082
-
+# Distributed System
 ### Designing Distributed Systems
 - https://zhuanlan.zhihu.com/p/41842380
+
+### Kafka: The Definitive Guide
+- There is a 2nd edition: https://www.confluent.io/resources/kafka-the-definitive-guide/
+
+
+# Software Engineering
+### Building Evolutionary Architectures
+- https://zhuanlan.zhihu.com/p/40880082
 
 ### Clean Architecture
 - https://zhuanlan.zhihu.com/p/48930536
@@ -12,12 +18,12 @@
 ### A Philosophy of Software Design
 - https://www.zhihu.com/question/304152591/answer/582946546
 
-### Kafka: The Definitive Guide
-- There is a 2nd edition: https://www.confluent.io/resources/kafka-the-definitive-guide/
 
+# Machine Learning
 ### Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 
 - best book for ML beginners
 - https://www.zhihu.com/question/304152591/answer/582946546
+
 
 ## After DDIA:
 ### Distributed Systems: An Algorithmic Approach
