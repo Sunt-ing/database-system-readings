@@ -16,7 +16,7 @@ In the paper digest, I will try to answer the following questions:
 - [Computer Systems: A Programmer's Perspective](https://github.com/Sunt-ing/database-system-readings/blob/main/CS:APP-omputer%20Systems:%20A%20Programmer's%20Perspective.md)
 - [The PhD Grind](https://github.com/Sunt-ing/database-system-readings/blob/main/The%20PhD%20Grind.md)
 
-You may also find [Top 2 Book List]()
+You may also find [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
 
 # Paper list
 ## ATC
