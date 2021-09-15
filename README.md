@@ -7,7 +7,7 @@ In the paper digest, I will try to answer the following questions:
 - How does this work relate to other research? 
 - What could be improved? 
 
-# Top 1 Book list
+# Book list
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications.md)
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://github.com/Sunt-ing/database-system-readings/blob/main/Database%20Internals.md)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://github.com/Sunt-ing/database-system-readings/blob/main/SS-streaming-systems.md)
@@ -16,7 +16,7 @@ In the paper digest, I will try to answer the following questions:
 - [Computer Systems: A Programmer's Perspective](https://github.com/Sunt-ing/database-system-readings/blob/main/CS:APP-omputer%20Systems:%20A%20Programmer's%20Perspective.md)
 - [The PhD Grind](https://github.com/Sunt-ing/database-system-readings/blob/main/The%20PhD%20Grind.md)
 
-You may also find [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
+You may also find other books in [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
 
 # Paper list
 Papers can be found in the issue list. A closed issue means that the report about it is finished, while an open one means that it's to-be-appeared or on-the-flying. 
