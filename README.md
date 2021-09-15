@@ -8,7 +8,7 @@ In the paper digest, I will try to answer the following questions:
 - What could be improved? 
 
 # Book list
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications)
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing 
 - Database system concepts
