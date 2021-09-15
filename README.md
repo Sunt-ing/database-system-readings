@@ -19,8 +19,7 @@ In the paper digest, I will try to answer the following questions:
 You may also find [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
 
 # Paper list
-## ATC
-- Scaling Large Production Clusters with Partitioned Synchronization
+Papers can be found in the issue list. A closed issue means that the report about it is finished, while an open one means that it's to-be-appeared or on-the-flying. 
 
 
 # Referenced Reading lists
