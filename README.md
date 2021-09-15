@@ -10,7 +10,7 @@ In the paper digest, I will try to answer the following questions:
 # Book list
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications)
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
-- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing 
+- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://github.com/Sunt-ing/database-system-readings/blob/main/SS-streaming-systems)
 - Database system concepts
 - Modern Operating Systems: Principles and Implementation (现代操作系统：原理与实现). By Haibo Chen & Yubin Xia.
 - The PhD Grind
