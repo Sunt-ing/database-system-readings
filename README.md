@@ -18,7 +18,7 @@ For each paper digest, I will try to answer the following questions:
 - [Computer Systems: A Programmer's Perspective](https://github.com/Sunt-ing/database-system-readings/blob/main/CS:APP-omputer%20Systems:%20A%20Programmer's%20Perspective.md)
 - [The PhD Grind](https://github.com/Sunt-ing/database-system-readings/blob/main/The%20PhD%20Grind.md)
 
-You may also find other books in [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
+You may also find other books in [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md)
 
 
 # Referenced Reading lists
