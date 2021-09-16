@@ -1,6 +1,8 @@
 # Introduction
 This is a curated reading list about database systems. Book list can be found in README, while paper digests are located in the issue list. 
+
 In the issue list, a closed issue means that the report about it is finished, while an open one means that it's to-be-appeared or on-the-flying. 
+
 For each paper digest, I will try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
 - How does it solve the problem? 
