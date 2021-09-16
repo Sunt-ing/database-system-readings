@@ -1,11 +1,13 @@
 # Introduction
-This is a curated reading list about database systems. Book digests can be found in README, while paper digests are located in the issue list.
-In the paper digest, I will try to answer the following questions: 
+This is a curated reading list about database systems. Book list can be found in README, while paper digests are located in the issue list. 
+In the issue list, a closed issue means that the report about it is finished, while an open one means that it's to-be-appeared or on-the-flying. 
+For each paper digest, I will try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
 - How does it solve the problem? 
 - How does their approach differ from previous ones? Are they adequately discussed in the reading? 
 - How does this work relate to other research? 
 - What could be improved? 
+
 
 # Book list
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications.md)
@@ -18,9 +20,6 @@ In the paper digest, I will try to answer the following questions:
 
 You may also find other books in [Top 2 Book List](https://github.com/Sunt-ing/database-system-readings/blob/main/Top%202%20Book%20List.md)
 
-# Paper list
-Papers can be found in the issue list. A closed issue means that the report about it is finished, while an open one means that it's to-be-appeared or on-the-flying. 
-
 
 # Referenced Reading lists
 ## General 
@@ -28,26 +27,26 @@ Papers can be found in the issue list. A closed issue means that the report abou
 - [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - [:star:] ALaikexisi at AWS: [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
 - [:star:] [http://duanple.com/?p=170](http://duanple.com/?p=170)
-- [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+- CMU: [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
 - Reynold Xin at Databricks: [https://github.com/rxin/db-readings](https://github.com/rxin/db-readings)
-- [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
 - UIUC: [https://systems-seminar-uiuc.github.io/fall20/index.html](https://systems-seminar-uiuc.github.io/fall20/index.html)
 - NYU: [https://github.com/fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar)
 - UMass: [https://systems-lunch.org/](https://systems-lunch.org/)
 - UCSD: [http://www.sysnet.ucsd.edu/classes/cse294/sp20/](http://www.sysnet.ucsd.edu/classes/cse294/sp20/)
 - Cornell: [http://www.cs.cornell.edu/courses/cs7490/2020fa/](http://www.cs.cornell.edu/courses/cs7490/2020fa/)
-- [https://www.youtube.com/c/uwcse/playlists](https://www.youtube.com/c/uwcse/playlists)
+- UW: [https://www.youtube.com/c/uwcse/playlists](https://www.youtube.com/c/uwcse/playlists)
 - UIUC: [https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit)
 - [http://dancres.github.io/Pages/](http://dancres.github.io/Pages/)
+- [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
 
 ## Database and Big Data
 - [:star:] Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
 - [https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai](https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai)
 
 ## System + Machine Learning
-- [https://remziarpacidusseau.wixsite.com/mlos](https://remziarpacidusseau.wixsite.com/mlos)
 - Umich: [https://github.com/mosharaf/eecs598](https://github.com/mosharaf/eecs598)
 - [https://github.com/mcanini/SysML-reading-list](https://github.com/mcanini/SysML-reading-list)
+- [https://remziarpacidusseau.wixsite.com/mlos](https://remziarpacidusseau.wixsite.com/mlos)
 
 ## System Reliability
 - JHU: [https://www.cs.jhu.edu/~huang/cs817/spring21/](https://www.cs.jhu.edu/~huang/cs817/spring21/)
