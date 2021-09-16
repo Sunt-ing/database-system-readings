@@ -28,6 +28,7 @@ Papers can be found in the issue list. A closed issue means that the report abou
 - [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - [:star:] ALaikexisi at AWS: [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
 - [:star:] [http://duanple.com/?p=170](http://duanple.com/?p=170)
+- [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
 - Reynold Xin at Databricks: [https://github.com/rxin/db-readings](https://github.com/rxin/db-readings)
 - [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
 - UIUC: [https://systems-seminar-uiuc.github.io/fall20/index.html](https://systems-seminar-uiuc.github.io/fall20/index.html)
