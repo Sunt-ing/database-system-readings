@@ -28,6 +28,7 @@ You may also find other books in [Other Books](https://github.com/Sunt-ing/datab
 - [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
 - [:star:] ALaikexisi at AWS: [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
 - [:star:] [http://duanple.com/?p=170](http://duanple.com/?p=170)
+- Lianke Qin of [https://github.com/brucechin/paper](https://github.com/brucechin/paper)
 - Blogs of Dan Abadi at UMD: [DBMS Musings](http://dbmsmusings.blogspot.com/)
 - CMU: [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
 - Reynold Xin at Databricks: [https://github.com/rxin/db-readings](https://github.com/rxin/db-readings)
@@ -40,8 +41,6 @@ You may also find other books in [Other Books](https://github.com/Sunt-ing/datab
 - UIUC: [https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit)
 - [http://dancres.github.io/Pages/](http://dancres.github.io/Pages/)
 - [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
-
-## Database and Big Data
 - [:star:] Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
 - [https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai](https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai)
 
