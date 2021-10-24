@@ -43,6 +43,7 @@ You may also find other books in [Other Books](https://github.com/Sunt-ing/datab
 - [https://github.com/feilengcui008/distributed_system_readings](https://github.com/feilengcui008/distributed_system_readings)
 - [:star:] Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
 - [https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai](https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai)
+- For a lsit for classical distributed systems: [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 
 ## System + Machine Learning
 - Umich: [https://github.com/mosharaf/eecs598](https://github.com/mosharaf/eecs598)
