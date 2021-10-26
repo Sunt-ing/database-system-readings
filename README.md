@@ -11,7 +11,7 @@ For each paper digest, I will try to answer the following questions:
 - What could be improved? 
 
 
-# Book list
+# Book List
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications.md)
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://github.com/Sunt-ing/database-system-readings/blob/main/Database%20Internals.md)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://github.com/Sunt-ing/database-system-readings/blob/main/SS-streaming-systems.md)
@@ -22,7 +22,7 @@ For each paper digest, I will try to answer the following questions:
 You may also find other books in [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md).
 
 
-# Referenced Reading lists
+# Referenced Reading Lists
 ## General 
 - [:star:] Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](https://xzhu0027.gitbook.io/blog/reading-list)
 - [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
