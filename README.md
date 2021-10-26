@@ -29,7 +29,7 @@ You may also find other books in [Other Books](https://github.com/Sunt-ing/datab
 ## General 
 - [:star:] Xiangfeng Zhu at UW: [https://xzhu0027.gitbook.io/blog/reading-list](https://xzhu0027.gitbook.io/blog/reading-list)
 - [:star:] Yuanli Wang at BU: [https://github.com/pentium3/sys_reading/issues](https://github.com/pentium3/sys_reading/issues)
-- [:star:] ALaikexisi at AWS: [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
+- [:star:] Alaikexisi at AWS: [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
 - [:star:] [http://duanple.com/?p=170](http://duanple.com/?p=170)
 - [:star:] Andy Pavlo at CMU: [https://db.cs.cmu.edu/seminar2021/](https://db.cs.cmu.edu/seminar2021/)
 - CMU: [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
