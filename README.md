@@ -15,6 +15,7 @@ For each paper digest, I will try to answer the following questions:
 
 
 # Book List
+Note: every link points to my digest (not begin yet) of the book.
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications.md)
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://github.com/Sunt-ing/database-system-readings/blob/main/Database%20Internals.md)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://github.com/Sunt-ing/database-system-readings/blob/main/SS-streaming-systems.md)
