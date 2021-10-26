@@ -46,7 +46,7 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
 - Blogs of Dan Abadi at UMD: [DBMS Musings](http://dbmsmusings.blogspot.com/)
 - Classical material on distributed systems: [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - Alaikexisi at AWS (in Chinese): [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
-- Chinese Translation set of classic papers in distributed system field: [http://duanple.com/?p=170](http://duanple.com/?p=170)
+- Chinese translation set of classic papers in distributed system field: [http://duanple.com/?p=170](http://duanple.com/?p=170)
 
 ## System + Machine Learning
 - Umich: [https://github.com/mosharaf/eecs598](https://github.com/mosharaf/eecs598)
