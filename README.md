@@ -61,9 +61,9 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
 - [https://github.com/lorin/systems-reading](https://github.com/lorin/systems-reading)
 
 ## Streaming Systems
-- Vasia at Boston University: 
-  - [course dspa21](https://vasia.github.io/dspa21/readings.html)
-  - [course dspa20](https://vasia.github.io/dspa20/readings.html)
+- [:star:] Vasia at Boston University: 
+  - [course DSPA 21](https://vasia.github.io/dspa21/readings.html)
+  - [course DSPA 20](https://vasia.github.io/dspa20/readings.html)
 - Jamie Brandon: [https://scattered-thoughts.net/](https://scattered-thoughts.net/)
 - Dunith Dhanushka: [https://dunith.medium.com/](https://dunith.medium.com/)
 
