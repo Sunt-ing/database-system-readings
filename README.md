@@ -8,8 +8,7 @@ In the issue list, a closed issue means that the report about it was finished, w
 For each paper digest, I will try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
 - How does it solve the problem? 
-- How does their approach differ from previous ones? Are they adequately discussed in the reading? 
-- How does this work relate to other research? 
+- How does their approaches differ from previous ones? Are they adequately discussed in the reading? 
 - What could be improved? 
 - Anything interesting about it?
 
