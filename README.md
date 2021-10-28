@@ -60,7 +60,8 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
 - UMich: [https://web.eecs.umich.edu/~manosk/summer-school-2020.html](https://web.eecs.umich.edu/~manosk/summer-school-2020.html)
 - [https://github.com/lorin/systems-reading](https://github.com/lorin/systems-reading)
 
-## Streaming
+## Streaming Systems
+- Vasia at Boston University: [https://vasia.github.io/dspa21/readings.html](https://vasia.github.io/dspa21/readings.html)
 - Jamie Brandon: [https://scattered-thoughts.net/](https://scattered-thoughts.net/)
 - Dunith Dhanushka: [https://dunith.medium.com/](https://dunith.medium.com/)
 
