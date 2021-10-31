@@ -14,13 +14,13 @@ For each paper digest, I will try to answer the following questions:
 
 
 # Book List
-Note: every link points to my digest (not begin yet) of the book.
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://github.com/Sunt-ing/database-system-readings/blob/main/DDIA-deisgning-data-intensive-applications.md)
-- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://github.com/Sunt-ing/database-system-readings/blob/main/Database%20Internals.md)
-- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://github.com/Sunt-ing/database-system-readings/blob/main/SS-streaming-systems.md)
-- [Database System Concepts](https://github.com/Sunt-ing/database-system-readings/blob/main/Database%20System%20Concepts.md)
-- [Computer Systems: A Programmer's Perspective](https://github.com/Sunt-ing/database-system-readings/blob/main/CS:APP-omputer%20Systems:%20A%20Programmer's%20Perspective.md)
-- [The PhD Grind](https://github.com/Sunt-ing/database-system-readings/blob/main/The%20PhD%20Grind.md)
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- Database Internals: A Deep Dive into How Distributed Data Systems Work
+- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
+- Stream Processing with Apache Flink
+- Database System Concepts
+- Computer Systems: A Programmer's Perspective
+- The PhD Grind
 
 You may also find [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md).
 
