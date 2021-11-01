@@ -20,7 +20,7 @@ For each paper digest, I will try to answer the following questions:
 - Stream Processing with Apache Flink
 - Database System Concepts, 5th Edition
 - Readings in Database Systems, 5th Edition
-- Computer Systems: A Programmer's Perspective
+- Computer Systems: A Programmer's Perspective, 3th Edition
 - The PhD Grind
 
 You may also find [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md).
