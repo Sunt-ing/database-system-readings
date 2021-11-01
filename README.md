@@ -3,7 +3,7 @@ This is a curated reading list about database systems, including digests of book
 
 Book list can be found in README, while paper and blog digests are located in the issue list. 
 
-In the issue list, a closed issue means that the report about it was finished, while an open one means that it's to-be-appeared or on-the-flying. 
+In the issue list, a closed issue means that the digest about it was finished, while an open one means that the digest is to-be-appeared or on-the-flying. 
 
 For each paper digest, I will try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
