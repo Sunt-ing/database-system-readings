@@ -18,7 +18,7 @@ For each paper digest, I will try to answer the following questions:
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
 - Stream Processing with Apache Flink
-- Database System Concepts
+- Database System Concepts, 5th Edition
 - Readings in Database Systems, 5th Edition
 - Computer Systems: A Programmer's Perspective
 - The PhD Grind
