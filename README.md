@@ -61,7 +61,7 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
 - [Systems Reading](https://github.com/lorin/systems-reading)
 
 ## In-Memory Databases
-- [CMU advanced database systems course]
+- CMU advanced database systems course
   - [course videos](https://www.youtube.com/watch?v=m72mt4VN9ik&list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
   - [course reading list](https://15721.courses.cs.cmu.edu/spring2019/schedule.html#jan-14-2019)
 
