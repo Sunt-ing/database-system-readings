@@ -1,5 +1,5 @@
 # Introduction
-This is a curated reading list about database systems, including digests of books/papers/blogs.
+This is a curated reading list about database systems, including personal digests of books/papers/blogs.
 
 Book list can be found in README, while paper and blog digests are located in the issue list. 
 
