@@ -31,6 +31,7 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
 - [:star:] Xiangfeng Zhu at UW: [Reading List](https://xzhu0027.gitbook.io/blog/reading-list)
 - [:star:] Yuanli Wang at BU: [Sys Reading](https://github.com/pentium3/sys_reading/issues)
 - [:star:] Andy Pavlo at CMU: [Seminar 2021](https://db.cs.cmu.edu/seminar2021/)
+- [:star:] [MIT 6.824 Distributed System Course](https://pdos.csail.mit.edu/6.824/schedule.html)
 - CMU: [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
 - Lianke Qin at UCSB: [Paper](https://github.com/brucechin/paper)
 - Reynold Xin at Databricks: [DB Readings](https://github.com/rxin/db-readings)
