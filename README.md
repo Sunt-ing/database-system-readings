@@ -1,7 +1,7 @@
 # Introduction
 This is a curated reading list about database systems, including personal digests of books/papers/blogs.
 
-Book list can be found in README, while paper and blog digests are located in the issue list. 
+Booklist can be found in README, while paper and blog digests are located in the issue list. 
 
 In the issue list, a closed issue means that the digest about it was finished, while an open one means that the digest is to-be-appeared or on-the-flying. 
 
@@ -12,7 +12,7 @@ For each paper digest, I try to answer the following questions:
 - Anything interesting about it?
 
 
-# Book List
+# Booklist
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
