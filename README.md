@@ -5,10 +5,9 @@ Book list can be found in README, while paper and blog digests are located in th
 
 In the issue list, a closed issue means that the digest about it was finished, while an open one means that the digest is to-be-appeared or on-the-flying. 
 
-For each paper digest, I will try to answer the following questions: 
+For each paper digest, I try to answer the following questions: 
 - What problem does the paper solve? Is it important? 
-- How does it solve the problem? 
-- How does their approaches differ from previous ones?
+- How does it solve the problem? Any approaches new?
 - What could be improved? 
 - Anything interesting about it?
 
