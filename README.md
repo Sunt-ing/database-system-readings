@@ -67,7 +67,7 @@ You may also find [Other Books](https://github.com/Sunt-ing/database-system-read
   - [course reading list](https://15721.courses.cs.cmu.edu/spring2019/schedule.html#jan-14-2019)
 
 ## Streaming Systems
-- [:star:] Vasia at Boston University: 
+- [:star:] Vasia at BU: 
   - [course DSPA 21](https://vasia.github.io/dspa21/readings.html)
   - [course DSPA 20](https://vasia.github.io/dspa20/readings.html)
 - Jamie Brandon: [Scattered Thoughts](https://scattered-thoughts.net/)
