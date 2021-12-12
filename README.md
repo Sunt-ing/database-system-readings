@@ -43,6 +43,7 @@ For each paper digest, I try to answer the following questions:
 - UW: [playlists](https://www.youtube.com/c/uwcse/playlists)
 - [http://dancres.github.io/Pages/](http://dancres.github.io/Pages/)
 - [Distributed System Readings](https://github.com/feilengcui008/distributed_system_readings)
+- [Database Techiques Everyone Should Know](https://blog.acolyer.org/2016/01/03/database-techiques-everyone-should-know/)
 - [https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai](https://github.com/mosharaf/eecs598/tree/w19-bigdata-ai)
 - Blogs of Dan Abadi at UMD: [DBMS Musings](http://dbmsmusings.blogspot.com/)
 - Classical material on distributed systems: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
