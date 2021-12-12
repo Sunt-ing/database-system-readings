@@ -22,8 +22,8 @@ For each paper digest, I try to answer the following questions:
 - Computer Systems: A Programmer's Perspective, 3th Edition
 - The PhD Grind
 
-You may also find [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md).
-
+<!-- You may also find [Other Books](https://github.com/Sunt-ing/database-system-readings/blob/main/Other%20Books.md).
+ -->
 
 # Referenced Reading Lists
 ## General 
