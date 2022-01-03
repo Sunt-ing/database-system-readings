@@ -72,7 +72,7 @@ For each paper digest, I try to answer the following questions:
   - [course DSPA 20](https://vasia.github.io/dspa20/readings.html)
 - Jamie Brandon: [Scattered Thoughts](https://scattered-thoughts.net/)
 - Dunith Dhanushka: [https://dunith.medium.com/](https://dunith.medium.com/)
-
+- [streaming readings (in Chinese)](https://github.com/lw-lin/streaming-readings)
 
 
 
